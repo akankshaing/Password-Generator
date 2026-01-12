@@ -4,7 +4,7 @@
 This is a Password Generator web application built using HTML, CSS, and JavaScript. <br>
 It allows users to create strong, secure, and customizable passwords with different character combinations. <br>
 
-✨ Features <br>
+✨ Features <br> 
 Adjustable password length using a slider (1–20 characters). <br>
 Option to include: <br>
 ✅ Uppercase letters <br>
