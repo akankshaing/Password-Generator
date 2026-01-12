@@ -1,6 +1,6 @@
 # Password-Generator  
 
-🔐 Password Generator <br>    
+🔐 Password Generator <br>
 This is a Password Generator web application built using HTML, CSS, and JavaScript. <br>
 It allows users to create strong, secure, and customizable passwords with different character combinations. <br>
 
