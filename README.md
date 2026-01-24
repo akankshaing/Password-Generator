@@ -29,4 +29,4 @@ Password strength evaluation <br>
 
 Dynamic UI updates (slider, indicators, copy button) <br>
 
-Check it out - https://akankshaing.github.io/Password-Generator/ <br>
+Check it out - https://pwdd-generator.netlify.app/
